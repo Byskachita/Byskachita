@@ -21,8 +21,6 @@ Buscando aprender nuevas habilidades para complementar conocimiento, tuve la gra
 Por este motivo ingrese a cursos como fullstack JavaScript y Front End.
 
 
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3ADD&width=435&lines=Te+invito+a+conocer+mi+trabajo)](https://git.io/typing-svg)
 
 
