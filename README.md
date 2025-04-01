@@ -4,11 +4,7 @@
 **Byskachita/Byskachita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hola 
 Soy Denisse, una diseñadora gráfica y publicitaria que se siente atraída por el código.
-
-
-
 
 
 ## 🚀 Desarrollo profesional
@@ -25,9 +21,9 @@ Por este motivo ingrese a cursos como fullstack JavaScript y Front End.
 
 
 ## Más info...
-👩‍💻 Actualmente trabajo en mejorar con el lenguaje de JavaScript
+👩‍💻 Actualmente trabajo en mejorar los conocimientos en el lenguaje de JavaScript.
 
-🧠 Actualmente estoy aprendiendo el trabajo de un desarrollador Front-End
+🧠 Actualmente estoy aprendiendo el trabajo de un desarrollador Front-End.
 
 💬 Preguntame sobre UX/UI
 
