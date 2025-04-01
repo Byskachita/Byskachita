@@ -16,7 +16,7 @@ Soy Denisse, una diseñadora gráfica y publicitaria que se siente atraída por 
 
 Mi base como diseñadora es HTML y CSS, esto me ha llevado a interesarme por el desarrollo web.
 
-Buscando aprender nuevas habilidades para complementar conocimiento, tuve la grandiosa idea de estudia UX/UI, considero la comunicación como base importante del mundo técnologico, pero me faltaba una parte importante, entender el código.
+Buscando aprender nuevas habilidades para complementar conocimiento, tuve la grandiosa idea de estudiar UX/UI, ya que considero la comunicación como base importante del mundo tecnológico, pero me faltaba una parte importante, entender el código.
 
 Por este motivo ingrese a cursos como fullstack JavaScript y Front End.
 
