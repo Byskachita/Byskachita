@@ -17,14 +17,14 @@ Buscando aprender nuevas habilidades para complementar conocimiento, tuve la gra
 ```javascript
 const Denisse = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, bootstrap, SASS],
-  tools: [React, Node, Docker],
+  code: [Javascript, Typescript, HTML, CSS, Bootstrap, sass],
+  tools: [React, Node, Git, Figma],
   skills: {
                         studies: "Graphic Designer",
                         usability: "UX/UI Designer",
-                        new_skill: "JavaScript"
+                        focus: "Front-end Development"
                       },
- learning: "I am learning in a front-end course"
+ learning: "Currently expanding my skills in Front-End architecture"
 }
 ```
 
